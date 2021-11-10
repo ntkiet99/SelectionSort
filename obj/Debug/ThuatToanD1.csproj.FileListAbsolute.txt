@@ -1,0 +1,7 @@
+C:\Users\ntkie\source\repos\ThuatToanD1\bin\Debug\ThuatToanD1.exe.config
+C:\Users\ntkie\source\repos\ThuatToanD1\bin\Debug\ThuatToanD1.exe
+C:\Users\ntkie\source\repos\ThuatToanD1\bin\Debug\ThuatToanD1.pdb
+C:\Users\ntkie\source\repos\ThuatToanD1\obj\Debug\ThuatToanD1.csproj.AssemblyReference.cache
+C:\Users\ntkie\source\repos\ThuatToanD1\obj\Debug\ThuatToanD1.csproj.CoreCompileInputs.cache
+C:\Users\ntkie\source\repos\ThuatToanD1\obj\Debug\ThuatToanD1.exe
+C:\Users\ntkie\source\repos\ThuatToanD1\obj\Debug\ThuatToanD1.pdb
